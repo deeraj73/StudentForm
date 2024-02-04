@@ -1,0 +1,2384 @@
+.frame-71,
+.frame-71 * {
+  box-sizing: border-box;
+}
+
+
+body {
+  transform-origin: 0 0;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 0;
+  transform: scaleX(1.0);
+  transform: scaleY(0.8);
+  overflow-y: hidden;
+}
+.frame-71 {
+  height: 1606px;
+  position: relative;
+}
+.frame-1 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 277px;
+  height: 1606px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.course-app {
+  color: #4367b0;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 110.5px);
+  top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.superadmin {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 41.5px);
+  top: 509px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.student {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 28.5px);
+  top: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.coursees {
+  position: absolute;
+  inset: 0;
+}
+.courses {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 297px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ion-book-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 52px;
+  top: 293px;
+  transform: translate(-24px, 0px);
+  overflow: visible;
+}
+.dashboard-1 {
+  position: absolute;
+  inset: 0;
+}
+.dashboard {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 252px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radix-icons-dashboard {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 249px;
+  overflow: visible;
+}
+.homework {
+  position: absolute;
+  inset: 0;
+}
+.homework2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 341px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mynaui-pencil {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 337px;
+  overflow: visible;
+}
+.crm-help-ticket {
+  position: absolute;
+  inset: 0;
+}
+.crm-help-ticket2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 385px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tdesign-ticket {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 381px;
+  overflow: visible;
+}
+.crm-messages {
+  position: absolute;
+  inset: 0;
+}
+.crm-messages2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 428px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-message-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 425px;
+  overflow: visible;
+}
+.logout {
+  position: absolute;
+  inset: 0;
+}
+.logout2 {
+  color: #ed1414;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 473px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-logout {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 28px;
+  top: 469px;
+  overflow: visible;
+}
+.course-2 {
+  position: absolute;
+  inset: 0;
+}
+.course {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 595px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ion-book-outline2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 45px;
+  top: 592px;
+  transform: translate(-24px, 0px);
+  overflow: visible;
+}
+.dashboard-2 {
+  position: absolute;
+  inset: 0;
+}
+.dashboard2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 552px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.radix-icons-dashboard2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 548px;
+  overflow: visible;
+}
+.batch {
+  position: absolute;
+  inset: 0;
+}
+.batch2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 640px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-account-group-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 636px;
+  overflow: visible;
+}
+.student-batch {
+  position: absolute;
+  inset: 0;
+}
+.student-batch2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 684px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-account-school-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 680px;
+  overflow: visible;
+}
+.bci-course {
+  position: absolute;
+  inset: 0;
+}
+.upcoming-bci-courses {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 728px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-bookshelf {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 724px;
+  overflow: visible;
+}
+.calender {
+  position: absolute;
+  inset: 0;
+}
+.bci-calendar {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 772px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-calendar-blank-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 768px;
+  overflow: visible;
+}
+.notes {
+  position: absolute;
+  inset: 0;
+}
+.technical-notes {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 816px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-note-multiple-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 812px;
+  overflow: visible;
+}
+.student-bulk {
+  position: absolute;
+  inset: 0;
+}
+.student-bulk-invoice {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 860px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-invoice-multiple-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 856px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.student-payment-info {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 904px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fluent-payment-28-regular {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 900px;
+  overflow: visible;
+}
+.approval-resuest {
+  position: absolute;
+  inset: 0;
+}
+.replace-approval-request {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 992px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material-symbols-approval-delegation-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 988px;
+  overflow: visible;
+}
+.overdue {
+  position: absolute;
+  inset: 0;
+}
+.payment-overdue-list {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 948px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ic-outline-payments {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 944px;
+  overflow: visible;
+}
+.video-dtream {
+  position: absolute;
+  inset: 0;
+}
+.video-stream-approval-request {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1036px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-video-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1032px;
+  overflow: visible;
+}
+.payment-approval-request {
+  position: absolute;
+  inset: 0;
+}
+.partial-payment-approval-request {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1080px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-camera-metering-partial {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1076px;
+  overflow: visible;
+}
+.access-approval-request {
+  position: absolute;
+  inset: 0;
+}
+.access-approval-request2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1124px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pajamas-approval {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1120px;
+  overflow: visible;
+}
+.nature-of-your-request {
+  position: absolute;
+  inset: 0;
+}
+.nature-of-your-request2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1168px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fluent-mdl-2-file-request {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1188px;
+  transform: translate(0px, -24px);
+  overflow: visible;
+}
+.bank-details {
+  position: absolute;
+  inset: 0;
+}
+.bank-details2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1212px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.iconoir-bank {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1208px;
+  overflow: visible;
+}
+.add-user {
+  position: absolute;
+  inset: 0;
+}
+.add-user2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1300px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-register-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1296px;
+  overflow: visible;
+}
+.all-user-list {
+  position: absolute;
+  inset: 0;
+}
+.all-user-list2 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1344px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ion-list-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1340px;
+  overflow: visible;
+}
+.crm-help-ticket3 {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1432px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tdesign-ticket2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1428px;
+  overflow: visible;
+}
+.zoom-config {
+  position: absolute;
+  inset: 0;
+}
+.zoom-configuration {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1476px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.material-symbols-zoom-in {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1472px;
+  overflow: visible;
+}
+.logout-2 {
+  position: absolute;
+  inset: 0;
+}
+.logout3 {
+  color: #ed1414;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1520px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdi-logout2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1516px;
+  overflow: visible;
+}
+.resgistration {
+  position: absolute;
+  inset: 0;
+}
+.registration {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1256px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mingcute-pen-line {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1252px;
+  overflow: hidden;
+}
+.group {
+  height: auto;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  overflow: visible;
+}
+.mail-notification {
+  position: absolute;
+  inset: 0;
+}
+.mail-notification-configure {
+  color: #808080;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 59px;
+  top: 1388px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ion-mail-notification-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 21px;
+  top: 1384px;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: #ed1414;
+  border-radius: 5px;
+  width: 4px;
+  height: 28px;
+  position: absolute;
+  left: 0px;
+  top: 467px;
+}
+.rectangle-2 {
+  background: #ed1414;
+  border-radius: 5px;
+  width: 4px;
+  height: 28px;
+  position: absolute;
+  left: 0px;
+  top: 1515px;
+}
+.frame-6 {
+  background: #ffffff;
+  width: 213px;
+  height: 85px;
+  position: absolute;
+  left: 29px;
+  top: 110px;
+  box-shadow: -2px 4px 106.6px 0px rgba(199, 199, 199, 0.25);
+}
+.frame-4 {
+  background: #f5f5f5;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  padding: 10px;
+  width: 213px;
+  height: 85px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.student2 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.online {
+  color: #36c236;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._934566778 {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 74px;
+  top: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-7 {
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  left: 12px;
+  top: 19px;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.ellipse-2 {
+  background: #36c236;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  left: 34px;
+  top: 1px;
+}
+.ellipse-3 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 1736px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.frame-5 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px;
+  width: 1511px;
+  height: 1447px;
+  position: absolute;
+  left: 309px;
+  top: 110px;
+  overflow: hidden;
+}
+.add-batch {
+  color: #000000;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 32px;
+  top: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 132px;
+}
+.batch-name {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.textfield-default {
+  background: var(--accent, #ecf1f4);
+  border-radius: 8px;
+  padding: 12px 16px 12px 16px;
+  flex-shrink: 0;
+  width: 604px;
+  height: 48px;
+  position: relative;
+  box-shadow: var(
+    --field-inset-box-shadow,
+    inset 0px 2px 2px -1px rgba(74, 74, 104, 0.1)
+  );
+  overflow: hidden;
+}
+.textfield-text-only {
+  position: absolute;
+  right: 16px;
+  left: 16px;
+  bottom: 18px;
+  top: 12px;
+}
+.label {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 366px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 83px;
+  top: 2px;
+}
+.required-svg-fill {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.required-svg {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 237px;
+}
+.code {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.required-svg-fill2 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 37px;
+  top: 3px;
+  overflow: hidden;
+}
+.required-svg2 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  overflow: visible;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 342px;
+}
+.course2 {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.label2 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 459px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after2 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 51px;
+  top: 2px;
+}
+.required-svg3 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.keyboard-arrow-down {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: 37px;
+  overflow: visible;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 447px;
+}
+.start-date {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.label3 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 477px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after3 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 67px;
+  top: 2px;
+}
+.required-svg4 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.calendar-today {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: 37px;
+  overflow: visible;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 552px;
+}
+.end-date {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.after4 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 61px;
+  top: 2px;
+}
+.required-svg5 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.calendar-today2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: 37px;
+  overflow: visible;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 657px;
+}
+.total-amount {
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.total-amount-span {
+  color: #333333;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.total-amount-span2 {
+  color: #868686;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.label4 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 572px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after5 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 89px;
+  top: 2px;
+}
+.required-svg6 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 762px;
+}
+.member-amount {
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.member-amount-span {
+  color: #333333;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.member-amount-span2 {
+  color: #868686;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+.after6 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 109px;
+  top: 2px;
+}
+.required-svg7 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 867px;
+}
+.running-week-day-name {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.label5 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 520px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after7 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 160px;
+  top: 2px;
+}
+.required-svg8 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.keyboard-arrow-down2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: calc(50% - -0.5px);
+  overflow: visible;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 972px;
+}
+.batch-crm {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.after8 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 76px;
+  top: 2px;
+}
+.required-svg9 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.keyboard-arrow-down3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: 37px;
+  overflow: visible;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 1077px;
+}
+.company-billing {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.after9 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 106px;
+  top: 2px;
+}
+.required-svg10 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.keyboard-arrow-down4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 564px;
+  top: 37px;
+  overflow: visible;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 1182px;
+}
+.payment-option-show {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  width: 224px;
+}
+.label6 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: var(--body-font-family, "SfProDisplay-Medium", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  line-height: var(--body-line-height, 140%);
+  font-weight: var(--body-font-weight, 500);
+  position: absolute;
+  right: 547px;
+  left: 0px;
+  bottom: -5px;
+  top: 1px;
+}
+.after10 {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 148px;
+  top: 2px;
+}
+.required-svg11 {
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.button-primary {
+  background: #3867c1;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 32px;
+  top: 1357px;
+  box-shadow: 0px 6px 2px -4px rgba(14, 14, 44, 0.1),
+    inset 0px -1px 0px 0px rgba(14, 14, 44, 0.4);
+  overflow: hidden;
+}
+.button-content {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.label7 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-52 {
+  background: #3867c1;
+  border-radius: 8px;
+  width: 811px;
+  height: 72px;
+  position: absolute;
+  left: 668px;
+  top: 132px;
+  overflow: hidden;
+}
+.frame-53 {
+  padding: 6px 10px 6px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 715px;
+  height: 36px;
+  position: absolute;
+  left: 16px;
+  top: 18px;
+}
+.installment-details {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-57 {
+  background: #808080;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 258px;
+  position: absolute;
+  left: 836px;
+  top: 208px;
+  overflow: hidden;
+}
+.primary-installment-amount {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-59 {
+  background: #808080;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 263px;
+  position: absolute;
+  left: 1094px;
+  top: 208px;
+  overflow: hidden;
+}
+.secondry-installment-amount {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-60 {
+  background: #808080;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 122px;
+  position: absolute;
+  left: 1357px;
+  top: 208px;
+  overflow: hidden;
+}
+.due-date {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-58 {
+  background: #808080;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 168px;
+  position: absolute;
+  left: 668px;
+  top: 208px;
+  overflow: hidden;
+}
+.installment-no {
+  color: #ffffff;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-61 {
+  background: #ecf1f4;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 168px;
+  height: 34px;
+  position: absolute;
+  left: 668px;
+  top: 263px;
+  overflow: hidden;
+}
+._1 {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.primary-student-t-c {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 668px;
+  top: 448px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.t-c-50-participation {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 667px;
+  top: 674px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.secondry-student-t-c {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 668px;
+  top: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-62 {
+  background: #ecf1f4;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 258px;
+  height: 34px;
+  position: absolute;
+  left: 836px;
+  top: 263px;
+  overflow: hidden;
+}
+.frame-63 {
+  background: #ecf1f4;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 263px;
+  height: 34px;
+  position: absolute;
+  left: 1094px;
+  top: 263px;
+  overflow: hidden;
+}
+.only-basic-amount {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 836px;
+  top: 301px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.to-installment-details {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 668px;
+  top: 405px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.only-basic-amount2 {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 1094px;
+  top: 301px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-primary2 {
+  background: #3867c1;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 668px;
+  top: 353px;
+  box-shadow: 0px 6px 2px -4px rgba(14, 14, 44, 0.1),
+    inset 0px -1px 0px 0px rgba(14, 14, 44, 0.4);
+  overflow: hidden;
+}
+.frame-67 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 811px;
+  height: 164px;
+  position: absolute;
+  left: 667px;
+  top: 710px;
+  overflow: hidden;
+}
+.line-15 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 811px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+.line-16 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 811px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+}
+.frame-66 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 775px;
+  height: 34px;
+  position: absolute;
+  left: 18px;
+  top: 120px;
+  overflow: hidden;
+}
+.full-html {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.keyboard-arrow-down5 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 741px;
+  top: 5px;
+  overflow: visible;
+}
+.text-format {
+  color: #333333;
+  text-align: left;
+  font-family: "SfProDisplay-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 18px;
+  top: 103px;
+  width: 224px;
+}
+.format-bold {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.component-1607 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 226px;
+  top: 10px;
+  overflow: visible;
+}
+.component-1608 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258px;
+  top: 10px;
+  overflow: visible;
+}
+.alpha-i {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 34.27px;
+  top: 9px;
+  transform: translate(-2.27px, 0px);
+  overflow: visible;
+}
+.order-bool-ascending {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 130px;
+  top: 10px;
+  overflow: visible;
+}
+.paragraph {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 474px;
+  top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.source {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 609px;
+  top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-text-formats {
+  color: #18a0fb;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 654px;
+  top: 103px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.question-mark-circle-outline {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 775px;
+  top: 102px;
+  overflow: visible;
+}
+.line-24 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 600px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-21 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 296px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-20 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 463px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-22 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 215px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.line-23 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 178px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.keyboard-arrow-down6 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 663px;
+  top: 8px;
+  overflow: visible;
+}
+.keyboard-arrow-down7 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 567px;
+  top: 8px;
+  overflow: visible;
+}
+.frame-69 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 811px;
+  height: 164px;
+  position: absolute;
+  left: 668px;
+  top: 484px;
+  overflow: hidden;
+}
+.keyboard-arrow-down8 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 741px;
+  top: 5px;
+  overflow: visible;
+}
+.format-bold2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.component-16072 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 226px;
+  top: 10px;
+  overflow: visible;
+}
+.component-16082 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258px;
+  top: 10px;
+  overflow: visible;
+}
+.alpha-i2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 34.27px;
+  top: 9px;
+  transform: translate(-2.27px, 0px);
+  overflow: visible;
+}
+.order-bool-ascending2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 130px;
+  top: 10px;
+  overflow: visible;
+}
+.question-mark-circle-outline2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 775px;
+  top: 102px;
+  overflow: visible;
+}
+.keyboard-arrow-down9 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 663px;
+  top: 8px;
+  overflow: visible;
+}
+.keyboard-arrow-down10 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 567px;
+  top: 8px;
+  overflow: visible;
+}
+.frame-68 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  width: 811px;
+  height: 164px;
+  position: absolute;
+  left: 668px;
+  top: 936px;
+  overflow: hidden;
+}
+.keyboard-arrow-down11 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 741px;
+  top: 5px;
+  overflow: visible;
+}
+.format-bold3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  overflow: visible;
+}
+.component-16073 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 226px;
+  top: 10px;
+  overflow: visible;
+}
+.component-16083 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 258px;
+  top: 10px;
+  overflow: visible;
+}
+.alpha-i3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 34.27px;
+  top: 9px;
+  transform: translate(-2.27px, 0px);
+  overflow: visible;
+}
+.order-bool-ascending3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 130px;
+  top: 10px;
+  overflow: visible;
+}
+.source2 {
+  color: #8c8ca1;
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  position: absolute;
+  left: 572px;
+  top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.question-mark-circle-outline3 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 775px;
+  top: 102px;
+  overflow: visible;
+}
+.line-242 {
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px 0 0 0;
+  width: 30.02px;
+  height: 0px;
+  position: absolute;
+  left: 558px;
+  top: 35px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.frame-64 {
+  background: #ecf1f4;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0px 1px 0px 0px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 122px;
+  height: 34px;
+  position: absolute;
+  left: 1357px;
+  top: 263px;
+  overflow: hidden;
+}
+.label8 {
+  color: var(--text-subtle, #8c8ca1);
+  text-align: left;
+  font-family: "SfProDisplay-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 140%;
+  font-weight: 500;
+  position: absolute;
+  left: 8px;
+  top: 8px;
+}
+.calendar-today3 {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 98px;
+  top: 10px;
+  overflow: visible;
+}
+.frame-70 {
+  width: 589px;
+  height: 50px;
+  position: absolute;
+  left: 309px;
+  top: 0px;
+}
+.frame-2 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #bfbfbf;
+  border-width: 1px;
+  padding: 10px;
+  width: 478px;
+  height: 50px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.search-outline {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 24px;
+  top: 13px;
+  overflow: visible;
+}
+.search-by-phone-no {
+  color: #bfbfbf;
+  text-align: left;
+  font-family: "SfProDisplay-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 72px;
+  top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button-primary3 {
+  background: #3867c1;
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 486px;
+  top: 1px;
+  box-shadow: 0px 6px 2px -4px rgba(14, 14, 44, 0.1),
+    inset 0px -1px 0px 0px rgba(14, 14, 44, 0.4);
+  overflow: hidden;
+}
